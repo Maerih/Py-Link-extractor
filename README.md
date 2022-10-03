@@ -7,6 +7,8 @@ This script extracts all links associated to the main domain/website link.
 
 -To run it just clone the repo and run `python3 weblinks.py` to get the links.
 
+-Let's try to run this against an online shopping site `https://www.jumia.co.ke`
+
 ![pic](weblinks.jpg)
 
 
